@@ -1,0 +1,6 @@
+import io.netty.channel.kqueue.KQueueDatagramChannel;
+public class FunctionUse17963 {
+public void funcUse() {
+KQueueDatagramChannel kqueuedatagramchannel = new KQueueDatagramChannel();
+}
+}
